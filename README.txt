@@ -1,1 +1,1 @@
-Project put together by Aidan Hurley doing task 1, and Lina Polidoro doing task 2.
+Project put together by Aidan Hurley doing task 1, and Angelina Polidoro doing task 2.
